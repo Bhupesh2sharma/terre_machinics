@@ -1,0 +1,73 @@
+/* src/assets/tailwind.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p {
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+ h1 {
+    font-family: "PT Serif", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  h2 {
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+ a{
+    font-family: "PT Serif", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+
+  @keyframes underlineAnimation {
+    0% {
+      width: 0;
+      left: 0;
+    }
+    50% {
+      width: 100%;
+      left: 0;
+    }
+    100% {
+      width: 0;
+      left: 100%;
+    }
+  }
+
+  .nav-item {
+    position: relative;
+    display: inline-block;
+  }
+
+  .nav-item::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    background-color: #768C9C;
+    bottom: -4px;
+    left: 0;
+    transition: width 0.3s ease, left 0.3s ease;
+  }
+
+  .nav-item:hover::after {
+    width: 100%;
+    left: 0;
+  }
+.mod{
+    
+        font-family: "PT Serif", serif;
+        font-weight: 700;
+        font-style:bold;
+       text-underline-offset: 2;
+      
+}
