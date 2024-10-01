@@ -34,19 +34,21 @@
           <!-- Phone -->
           <div class="mb-6 text-center lg:text-left">
             <h3 class="text-2xl font-bold text-white mb-2">Phone</h3>
-            <p class="text-gray-300">+123 456 7890</p>
+            <p class="text-gray-300">+91 7063-861201</p>
           </div>
           
           <!-- Email -->
           <div class="mb-6 text-center lg:text-left">
             <h3 class="text-2xl font-bold text-white mb-2">Email</h3>
-            <p class="text-gray-300">info@example.com</p>
+            <p class="text-gray-300">contact@terremechanics.com
+            </p>
           </div>
 
           <!-- Address -->
           <div class="text-center lg:text-left">
             <h3 class="text-2xl font-bold text-white mb-2">Address</h3>
-            <p class="text-gray-300">1234 Street Name, City, State, ZIP</p>
+            <p class="text-gray-300">Mamring South Sikkim, Opposite Of V-Guard
+              Pvt Ltd.- 737132</p>
           </div>
         </div>
       </div>
