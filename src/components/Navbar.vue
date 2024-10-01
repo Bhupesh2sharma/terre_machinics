@@ -4,12 +4,13 @@
     <div class="text-sm">
       <p class="mb-1 text-xl font-bold tracking-wide">
         <a href="tel:+1234567890" class="hover:underline no-underline text-white hover:text-[#E69737] transition-colors duration-300 ease-in-out">
-          +1 (234) 567-890
+          +91 7063-861201
         </a>
       </p>
       <p class="mb-1 text-xl font-bold tracking-wide">
         <a href="mailto:contact@example.com" class="hover:underline no-underline text-white hover:text-[#E69737] transition-colors duration-300 ease-in-out">
-          contact@example.com
+          contact@terremechanics.com
+
         </a>
       </p>
     </div>
@@ -44,7 +45,7 @@
             Projects
           </router-link>
           <router-link to="/contact" class="nav-item text-[#0F364D] hover:text-[#768C9C] no-underline font-bold text-xl">
-            Our Updates
+           Contact Us
           </router-link>
         </nav>
 
@@ -58,7 +59,7 @@
         <!-- Contact Button for Desktop -->
         <div class="hidden md:flex items-center space-x-4">
           <a href="#" class="bg-[#0F364D] text-white px-4 py-2 rounded-full hover:bg-[#7C94A1] no-underline font-sans font-bold text-xl">
-            Contact Us
+            ENQUIRE NOW
           </a>
         </div>
       </div>

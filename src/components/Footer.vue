@@ -30,18 +30,19 @@
                     <div>
                         <h2 class="text-lg font-semibold text-white">Quick Links</h2>
                         <ul class="mt-4 space-y-4">
-                            <li><a href="#" class="hover:underline no-underline text-gray-400">About Us</a></li>
-                            <li><a href="#" class="hover:underline no-underline text-gray-400">Services</a></li>
-                            <li><a href="#" class="hover:underline no-underline text-gray-400">Portfolio</a></li>
-                            <li><a href="#" class="hover:underline no-underline text-gray-400">Contact</a></li>
+                            <li><a href="/about" class="hover:underline no-underline text-gray-400">About Us</a></li>
+                            <li><a href="/services" class="hover:underline no-underline text-gray-400">Services</a></li>
+                            <li><a href="/contact" class="hover:underline no-underline text-gray-400">Contact</a></li>
                         </ul>
                     </div>
                     <!-- Services -->
                     <div>
                         <h2 class="text-lg font-semibold text-white">Services</h2>
                         <ul class="mt-4 space-y-4">
-                            <li><a href="#" class="hover:underline no-underline text-gray-400">Consulting & Strategy</a></li>
-                            <li><a href="#" class="hover:underline no-underline text-gray-400">Design & Development</a></li>
+                            <li><a href="#" class="hover:underline no-underline text-gray-400">Slope Stabilization</a></li>
+                            <li><a href="#" class="hover:underline no-underline text-gray-400">Geosynthetics
+                                & Shotcreting
+                            </a></li>
                            
                         </ul>
                     </div>
@@ -49,10 +50,12 @@
                     <div>
                         <h2 class="text-lg font-semibold text-white">Contact Us</h2>
                         <ul class="mt-4 space-y-4">
-                            <li><a href="#" class="hover:underline no-underline text-gray-400">info@
+                            <li><a href="#" class="hover:underline no-underline text-gray-400">contact@
                                 <br> terremechanics.com</a></li>
-                            <li><a href="#" class="hover:underline no-underline text-gray-400">+1 (234) 567-890</a></li>
-                            <li><a href="#" class="hover:underline no-underline text-gray-400">123 Main St, Anytown, USA</a></li>
+                            <li><a href="#" class="hover:underline no-underline text-gray-400">+91 7063-861201
+                            </a></li>
+                            <li><a href="#" class="hover:underline no-underline text-gray-400">Mamring South Sikkim, Opposite Of V-Guard
+                                Pvt Ltd.- 737132</a></li>
                         </ul>
                     </div>
                 </div>
