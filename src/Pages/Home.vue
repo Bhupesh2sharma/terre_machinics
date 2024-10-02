@@ -46,24 +46,28 @@
     </section>
 
     <section class="bg-gray-100 dark:bg-gray-800">
-        <div class="gap-16 items-center py-8 px-7 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
-            <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
-                <h1 class="text-white hover:text-[#768C9C] no-underline font-sans font-bold text-3xl ">About Us</h1>
-                <p class="mb-4">Welcome to Terre Mechanics, a Sikkim based Geo-tech firm where we redefine the possibilities of geotechnical engineering. Established with a vision to innovate and excel, our firm stands at the forefront of geotechnical solutions, providing expert services that ensure the stability, safety, and sustainability of your projects.</p>
-                <h1 class="text-white hover:text-[#768C9C] no-underline font-sans font-bold text-3xl ">Who We Are</h1>
-                <p class="mb-4">At Terre Mechanics, we are a dedicated team of geotechnical engineers, and who are passionate about understanding the Earth's complexities. Our diverse expertise allows us to tackle a wide range of challenges, from Slope Stabilization, soil testing and foundation design to environmental assessments and site remediation. We pride ourselves on our commitment to precision, quality, and client satisfaction.</p>
-                <h1 class="text-white hover:text-[#768C9C] no-underline font-sans font-bold text-3xl ">Our Mission</h1>
-                <p class="mb-4">Our mission is to deliver exceptional geotechnical services that help our clients achieve their goals while safeguarding the environment and ensuring public safety. We aim to provide innovative solutions that are both practical and sustainable, leveraging the latest technology and methodologies to address the unique challenges of each project.</p>
-               
-            
-            </div>
-            <div class="grid grid-cols-2 gap-4 mt-8">
-                <!-- <img class="w-full rounded-lg" :src="about" alt="team content 1"/> -->
-                <h1></h1>
-                <img class="w-full rounded-lg" :src="about" alt="team content 1"/>
-            </div>
+    <div class="gap-16 items-center py-8 px-7 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+        <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+            <h1 class="text-gray-900 dark:text-white hover:text-[#768C9C] no-underline font-sans font-bold text-3xl">About Us</h1>
+            <p class="mb-4 text-gray-700 dark:text-gray-300"> <!-- Explicit text color in light/dark mode -->
+                Welcome to Terre Mechanics, a Sikkim based Geo-tech firm where we redefine the possibilities of geotechnical engineering. Established with a vision to innovate and excel, our firm stands at the forefront of geotechnical solutions, providing expert services that ensure the stability, safety, and sustainability of your projects.
+            </p>
+            <h1 class="text-gray-900 dark:text-white hover:text-[#768C9C] no-underline font-sans font-bold text-3xl">Who We Are</h1>
+            <p class="mb-4 text-gray-700 dark:text-gray-300">
+                At Terre Mechanics, we are a dedicated team of geotechnical engineers, passionate about understanding the Earth's complexities. Our diverse expertise allows us to tackle challenges, from Slope Stabilization, soil testing and foundation design to environmental assessments and site remediation.
+            </p>
+            <h1 class="text-gray-900 dark:text-white hover:text-[#768C9C] no-underline font-sans font-bold text-3xl">Our Mission</h1>
+            <p class="mb-4 text-gray-700 dark:text-gray-300">
+                Our mission is to deliver exceptional geotechnical services that help our clients achieve their goals while safeguarding the environment and ensuring public safety. We aim to provide innovative solutions that are both practical and sustainable.
+            </p>
         </div>
-    </section>
+
+        <div class="grid grid-cols-2 gap-4 mt-8">
+            <img class="w-full rounded-lg" :src="about" alt="team content 1" />
+        </div>
+    </div>
+</section>
+
     <section class="bg-white dark:bg-gray-900">
         <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
             <div class="max-w-screen-md mb-8 lg:mb-16">
